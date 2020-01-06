@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Strandweaver](README.md)
+* [Language Spec](language-spec.md)
 
